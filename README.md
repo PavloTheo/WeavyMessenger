@@ -7,13 +7,17 @@ It features:
 • API and backend integration
 • JSON parsing
 • Navigation Stack
+• Secure storage with Keychain
 
 
 Demo GIF:
 
 ![Demo GIF](weavy_demo.gif)
 
-Image example of MVVM file structure:
+Image of MVVM file structure:
 ![Example image of project's MVVM structure](Weavy_MVVM.png)
+
+Keychain:
+![](Keychain.png)
 
 
