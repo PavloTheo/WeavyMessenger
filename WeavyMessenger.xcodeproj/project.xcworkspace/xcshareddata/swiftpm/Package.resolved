@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "keychainaccess",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kishikawakatsumi/KeychainAccess.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "ecb18d8ce4d88277cc4fb103973352d91e18c535"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "c1f60c63f356d364f4284ba82961acbe7de79bcc",
+        "version" : "7.8.1"
+      }
+    },
+    {
+      "identity" : "listpagination",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/crelies/ListPagination.git",
+      "state" : {
+        "revision" : "af667b368a10512da79605b61698d53c11d24cbf",
+        "version" : "0.1.1"
+      }
+    },
+    {
+      "identity" : "signalr-client-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/moozzyk/SignalR-Client-Swift.git",
+      "state" : {
+        "revision" : "75412e925680bce6aaacfc0a654d95b9eb96080e",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
