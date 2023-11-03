@@ -9,5 +9,3 @@ It features:
 • Navigation Stack
 
 
-
-![Uploading Simulator Screen Recording - iPhone 14 Pro - 2023-11-03 at 13.57.58.gif…]()
