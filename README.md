@@ -9,8 +9,10 @@ It features:
 • Navigation Stack
 
 
+Demo GIF:
 ![Demo GIF](weavy_demo.gif)
 
+Image example of MVVM file structure:
 ![Example image of project's MVVM structure](Weavy_MVVM.png)
 
 
