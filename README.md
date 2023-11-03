@@ -9,3 +9,6 @@ It features:
 • Navigation Stack
 
 
+![Demo GIF](weavy_demo.gif)
+
+
