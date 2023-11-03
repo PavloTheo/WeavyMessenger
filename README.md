@@ -11,4 +11,6 @@ It features:
 
 ![Demo GIF](weavy_demo.gif)
 
+![Example image of project's MVVM structure](Weavy_MVVM.png)
+
 
