@@ -10,6 +10,7 @@ It features:
 
 
 Demo GIF:
+
 ![Demo GIF](weavy_demo.gif)
 
 Image example of MVVM file structure:
